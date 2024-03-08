@@ -106,14 +106,9 @@ protocol AbstractOperation {
 }
 
 class Calculator {
-    var firstnumber: Double
-    var secondnumber: Double
     let operation: AbstractOperation
     
-    
-    init(firstnumber: Double, secondnumber: Double, operation: AbstractOperation) {
-        self.firstnumber = firstnumber
-        self.secondnumber = secondnumber
+    init(operation: AbstractOperation) {
         self.operation = operation
         
     
@@ -140,6 +135,7 @@ class Addoperation: AbstractOperation {
         return firstnumber + secondnumber
     }
 }
+
 
 class SubtractOperation: AbstractOperation {
     
