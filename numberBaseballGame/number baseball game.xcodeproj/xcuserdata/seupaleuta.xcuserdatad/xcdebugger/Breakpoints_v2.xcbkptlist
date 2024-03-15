@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "00084599-8F54-493E-B197-108A5FB04F27"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C46EEDA-4F06-4EF8-863C-4998986009F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "number baseball game/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "BaseballGame"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0C46EEDA-4F06-4EF8-863C-4998986009F1 - 7372c7415cfc4218"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "number_baseball_game.BaseballGame.afterGame() -&gt; ()"
+                  moduleName = "number baseball game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seupaleuta/Desktop/numberBaseballGame/number%20baseball%20game/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "0C46EEDA-4F06-4EF8-863C-4998986009F1 - bb97faadd3cf5d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "number_baseball_game.BaseballGame.parseGuess(Swift.String) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "number baseball game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seupaleuta/Desktop/numberBaseballGame/number%20baseball%20game/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "445EE704-94AE-4278-8F58-35B226DDB0A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "number baseball game/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "afterGame()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "445EE704-94AE-4278-8F58-35B226DDB0A6 - 7372c7415cfc42b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "number_baseball_game.BaseballGame.afterGame() -&gt; ()"
+                  moduleName = "number baseball game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seupaleuta/Desktop/numberBaseballGame/number%20baseball%20game/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "445EE704-94AE-4278-8F58-35B226DDB0A6 - 7372c7415cfc4156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "number_baseball_game.BaseballGame.afterGame() -&gt; ()"
+                  moduleName = "number baseball game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seupaleuta/Desktop/numberBaseballGame/number%20baseball%20game/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
