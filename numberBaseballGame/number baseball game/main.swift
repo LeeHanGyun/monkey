@@ -55,7 +55,8 @@ class BaseballGame {
         print("게임에 오신 것을 환영합니다! 원하시는 번호를 입력해주세요.")
         print("1.게임 시작")
         print("2.게임 기록 보기")
-        print("3.게임 종료")
+        print("3.게임 룰 설명")
+        print("4.게임 종료")
         
         if let input = readLine() {
             switch input {
@@ -64,6 +65,9 @@ class BaseballGame {
             case "2":
                 showGameRecords()
             case "3":
+                print("0부터 9까지의 서로 다른 임의의 수 3개를 정하고 맞추는 게임입니다.")
+                showStartMenu()
+            case "4":
                 checkGameOver(isGameOver: true)
             default :
                 print("잘못된 입력입니다.")
